@@ -28,13 +28,13 @@ redirect the message to this file instead of standard error.
 1. Go to the repository https://github.com/bios821-2018/homework and submit an issue under this repo where you assert
 "My name is <fill in your real name here>."
 2. Fork this repo and clone your fork using ssh.
-3. Within this new project (i.e. `homework` folder), create a new branch and name it after your github username.
+3. Within this new project (i.e. `homework` folder), look for a branch with your name on it, **ONLY USE THIS BRANCH**.
 4. Within the project folder `homework/homework3` modify the README.md file so that you tell me the command you used in Problem 3 step 1
 to clone your fork of the repo.
 5. Commit this change of README.md to your specific branch.
-6. Within your branch (i.e. your user name) add the archived compressed file that you created in Problem 1 and save it
+6. Within your branch (i.e. **YOUR NAME**) add the archived compressed file that you created in Problem 1 and save it
 in `homework/homework3`.
 7. Commit this change.
-8. Push these changes to your fork.
-9. Submit a pull request that asks to incorporate your branch into bios821/homework repo with a branch of the same name (i.e.
+8. Push these changes **from your branch** to your fork.
+9. Submit a pull request that asks to incorporate **your branch** into bios821/homework repo with a branch of the same name (i.e.
 your githubuser name).
